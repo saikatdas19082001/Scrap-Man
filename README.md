@@ -9,7 +9,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 - can be found on [Telegram](https://telegram.dog/scrapidbot)
 
-🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
+🙄 [@ScrapIdBot](https://telegram.dog/scrapidbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
 
 ## Frequently Asked Questions
