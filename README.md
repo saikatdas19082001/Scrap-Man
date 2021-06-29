@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@ScrapMan](https://telegram.dog/scrapidbot)
+## [@ScrapIdBot](https://telegram.dog/scrapidbot)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
