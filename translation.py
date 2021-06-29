@@ -1,16 +1,17 @@
 class Translation(object):
-    START_TEXT = """Hai!
-Kegunaan Bot ini untuk membantu anda mengambil API ID & API HASH Telegram Dengan mudah.
-Silahkan Masukkan Nomor Telepon Telegram Anda Dengan Format +62(nohp).
-"""
-    AFTER_RECVD_CODE_TEXT = """No HP Diterima!
-Sekarang silakan kirim kode Telegram yang Anda terima dari Telegram!
+    START_TEXT = """Hi!
 
-Kode ini hanya digunakan untuk tujuan mendapatkan ID APP dari my.telegram.org
-jika Anda tidak mempercayai dev bot ini, Ngambil Manual aja Goblokk 😁🙏
+The usefulness of this Bot is to help you retrieve Telegram's API ID & HASH API with ease.
+Please Enter Your Telegram Phone Number With Format +91(number).
 """
-    BEFORE_SUCC_LOGIN = "Kode Diterima. Scarpping Web Page..."
-    ERRED_PAGE = "Hadeh Error. Gagal Mendapatkan id aplikasi. \n\n Kontak saya : @mrismanaziz"
-    CANCELLED_MESG = "Bye! Silahkan /start kembali untuk mengulang"
-    IN_VALID_CODE_PVDED = "Masukan Kode Telegram yang Bener Goblok 😁🙏"
-    IN_VALID_PHNO_PVDED = "Masukan NO HP yang Bener Goblok 😁🙏 Pake Format +(kode Negara) Contoh +62(nohp)"
+    AFTER_RECVD_CODE_TEXT = """ Number Accepted!
+Now please send the Telegram code you received from Telegram!
+
+This code is only used for the purpose of getting APP ID from my.telegram.org
+if you don't trust this dev bot, just take it manually😁🙏
+"""
+    BEFORE_SUCC_LOGIN = "Code Received. Scarpping Web Pages..."
+    ERRED_PAGE = "Hadeh Error. Failed to get application id. \n\n contact : @DaedXn"
+    CANCELLED_MESG = "Bye! Please / restart to repeat"
+    IN_VALID_CODE_PVDED = "Enter the Telegram Code that you have received 😁🙏"
+    IN_VALID_PHNO_PVDED = "Enter a Real Telegram Phone number 😁🙏 Use Format +(country code) Example +91(number)"
