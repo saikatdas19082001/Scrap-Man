@@ -14,4 +14,4 @@ if you don't trust this dev bot, just take it manually😁🙏
     ERRED_PAGE = "Scrapping Error. Failed to get application id. \n\n contact : @DaedXn"
     CANCELLED_MESG = "Bye! Please / restart to repeat"
     IN_VALID_CODE_PVDED = "Enter the Telegram Code that you have received 😁🙏"
-    IN_VALID_PHNO_PVDED = "Enter a Real Telegram Phone number 😁🙏 Use Format +(country code) Example +91(number)"
+    IN_VALID_PHNO_PVDED = "Enter a Telegram Phone number 😁🙏 \n\n Use Format +(country code) Example +91(number)"
