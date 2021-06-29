@@ -224,7 +224,7 @@ def main():
 
     # Add conversation handler with the states
     conv_handler = ConversationHandler(
-        entry_points=[CommandHandler("start", start)],
+        entry_points=[CommandHandler("id", id)],
 
         states={
             INPUT_PHONE_NUMBER: [MessageHandler(
