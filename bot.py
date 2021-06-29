@@ -63,7 +63,7 @@ GLOBAL_USERS_DICTIONARY = {}
 
 
 def start(update, context):
-    """ ConversationHandler entry_point /start """
+    """ ConversationHandler entry_point /id """
     update.message.reply_text(
         Config.START_TEXT,
         parse_mode=ParseMode.HTML
