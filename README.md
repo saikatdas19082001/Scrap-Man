@@ -7,7 +7,7 @@ please treat your APP ID and API HASH with care, and ensure that they do not fal
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
-- can be found on [Telegram](https://telegram.dog/scrapmanbot)
+- can be found on [Telegram](https://telegram.dog/scrapidbot)
 
 🙄 [@ScrapMan](https://telegram.dog/scrapmanbot) **is the only Telegram RoBot, which is using this repository code**. 🙄😬
 __For any other bots, ask the respective bot developers, for the source code, before sending **any private credentials*" to the bots__.
@@ -29,7 +29,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 - clone the repository, locally.
 ```sh
-git clone https://github.com/mrismanaziz/Scrap-Man.git
+git clone https://github.com/saikatdas19082001/Scrap-Man
 ```
 
 - change the directory.
@@ -59,11 +59,11 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@ScrapMan](https://telegram.dog/scrapmanbot)
+## [@ScrapMan](https://telegram.dog/scrapidbot)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@SharingUserbot](https://t.me/SharingUserbot)
+- Please report any issues to the support group: [@realups](https://t.me/realups)
 
 
 ## learning
@@ -71,7 +71,7 @@ python3 bot.py
 check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/mrismanaziz/Scrap-Man/blob/master/LICENSE)
+[AGPLv3](https://github.com/saikatdas19082001/Scrap-Man/blob/master/LICENSE)
 
 ## credits
 
@@ -80,4 +80,5 @@ check out the [helper_funcs](https://github.com/mrismanaziz/Scrap-Man/tree/maste
   - [requests](https://github.com/psf/requests)
   - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
-  - [me](https://tx.me/mrismanaziz)
+  - [Dead](https://tx.me/deadxn)
+  - [MRismanaziz](https://tx.me/mrismanaziz)
